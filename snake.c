@@ -1,4 +1,4 @@
-//here we use functions like
+//functions used are
 //rand() :- to generate random value
 //kbhit() :- keyboard hit function which returns true when non zero key is clicked
 #include<stdio.h>
